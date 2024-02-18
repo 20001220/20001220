@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @20001220
+- 👋 Hi, I’m capture
 - 👀 I’m interested in code
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
